@@ -20,7 +20,7 @@ country.addEventListener("keyup", async function (event) {
                 population.textContent = "Population: " + data[0].population
                 area.textContent = "Area: " + data[0].area
 
-                console.log(data);
+            
                 
             }})
 
